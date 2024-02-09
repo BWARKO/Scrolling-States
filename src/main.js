@@ -1,12 +1,12 @@
 // Code Practice: Scrolling States
-// Name:
-// Date: 
+// Name: Blake Warkenton
+// Date: 9 February 2024
 
 'use strict'
 
 const config = {
     parent: 'phaser-game',  // for info text
-    type: Phaser.WEBGL,     // for tinting
+    // type: Phaser.WEBGL,     // for tinting
     width: 400,
     height: 300,
     pixelArt: true,
